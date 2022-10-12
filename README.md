@@ -9,7 +9,7 @@ ___
 
 ## Conteúdo
 
-- Design Figma com components e plugins [link](http://127.0.0.1:5173/).
+- Design Figma com components e plugins [link](#).
 
 ## Contato
 
