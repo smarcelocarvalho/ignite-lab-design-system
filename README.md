@@ -14,3 +14,6 @@ ___
 ## Contato
 
 <marcelo_scarvalho@outlook.com>
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
