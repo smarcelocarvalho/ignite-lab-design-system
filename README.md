@@ -35,4 +35,4 @@ ___
 
 > [Linkedin](https://www.linkedin.com/in/scarvalhomarcelo/)
 
->E-mail: <marcelo_scarvalho@outlook.com>
+> <marcelo_scarvalho@outlook.com>
